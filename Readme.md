@@ -1,2 +1,2 @@
-first gir project
-just a bbasic Hello world stuff
+first git project
+just a basic Hello world stuff
